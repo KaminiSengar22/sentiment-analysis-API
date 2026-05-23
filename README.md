@@ -40,7 +40,7 @@ sentiment-api/
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/sentiment-analysis-api.git
+git clone https://github.com/KaminiSengar22/sentiment-analysis-api.git
 cd sentiment-analysis-api
 
 # 2. Virtual environment
