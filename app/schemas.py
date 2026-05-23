@@ -5,7 +5,7 @@ class SentimentRequest(BaseModel):
         ...,
         min_length=1,
         max_length=5000,
-        example="This movie was absolutely amazing!"
+        json_schema_extra={"example": "This movie was absolutely amazing!"}
     )
 
 class SentimentResponse(BaseModel):
