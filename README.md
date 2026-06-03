@@ -3,6 +3,8 @@
 A production-style REST API that predicts sentiment (positive/negative) from text input,
 built with FastAPI and a scikit-learn NLP pipeline trained on 50,000 IMDB reviews.
 
+**Note:** This is a personal portfolio project trained on the IMDB dataset (50K reviews, ~91% accuracy). 
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-orange)
